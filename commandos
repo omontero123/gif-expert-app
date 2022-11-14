@@ -1,0 +1,24 @@
+yarn dev
+
+yarn add prop-types
+
+yarn add --dev jest
+
+yarn test
+
+intelisense de jest
+yarn add -D @types/jest
+
+babel apra jest en dev
+yarn add --dev babel-jest @babel/core @babel/preset-env
+
+yarn add -D whatwg-fetch
+para solucionar error ReferenceError: XMLHttpRequest is not defined y jsx
+yarn add -D jest-environment-jsdom
+
+
+testing DOM
+yarn add --dev @testing-library/react
+
+
+yarn add -D @babel/preset-react
